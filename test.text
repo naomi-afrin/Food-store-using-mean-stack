@@ -1,1 +1,17 @@
-csdvvdfv
+2. Create angular app
+npm install - @angular/cli  - downloadin anular cli lobal package
+
+# ow to see if ng package downloaded?
+ng --version
+
+#create angular app witout test
+ng new frontend --skip-tests
+
+# go to frontend folder
+cd frontend
+
+# to serve te angular app inside browser
+ng serve -o
+
+# to remove it from frontend and add it to wole project
+rm -rf .git
