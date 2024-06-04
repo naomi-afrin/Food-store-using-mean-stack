@@ -1,0 +1,18 @@
+List Foods:
+    Create Food model
+    Create data.ts
+    Add sample foods
+    Add images to assets
+    Create Food service
+    Create Home component
+    Add ts
+    Add html
+    Add css
+
+
+
+1. What is the shared folder under frontend -> src -> app?
+= a folder that is shared by component and services
+# create food model
+    1. under shared -> models- create food.ts
+    2. put required and optional fields in food.ts
