@@ -5,9 +5,10 @@ export class Food{
     name!: string;
     price!: number;
     tas?: string[];
-    favourite!: boolean;
+    favorite!: boolean;
     stars!: number;
-    imaeUrl!: string;
+    imageUrl!: string;
     origins!: string[];
     cookTime!: string;
+    tags?: string[];
 }
